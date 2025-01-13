@@ -1,0 +1,19 @@
+<style>
+  h1{
+    background-color: wheat;
+    margin: 2px;
+    padding: 5px;
+  }
+  
+  div{
+    display: flex;
+    justify-content: space-between;
+  } 
+</style>
+ <div>
+    <h1>WELL COME</h1>
+<h1>TO</h1>
+<h1>WEBPAGE</h1>
+  </div>
+  <input type="text">
+  <input type="datetime-local">
