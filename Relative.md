@@ -16,7 +16,6 @@
     height: 200px;
     width: 200px;
     position: relative;
-  
     left: 200px;
   }
   .three{
@@ -31,14 +30,14 @@
     margin: 200px;
   }
     .two h1 {
-    margin: 200px;
-    
+    margin: 200px; 
   }
     .three h1 {
     margin: 200px;
   }
 </style>
-          
+
+
 <center>
   <h1> hello viewer </h1>
 </center>
