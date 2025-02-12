@@ -1,3 +1,4 @@
+/*html and css */
 <html>
 <style>
   h1{
@@ -10,6 +11,7 @@
     justify-content: space-between;
   } 
 </style>
+
  <div>
     <h1>WELL COME</h1>
 <h1>TO</h1>
