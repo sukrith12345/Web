@@ -1,0 +1,19 @@
+body{
+  padding: 45px;
+  background-color: deepskyblue;
+}
+.courses li{
+  height: 100px;
+  
+}
+
+.div.cource-footer.li{
+  padding: 20px;
+  text-align: center;
+}
+.course-footer p{
+  height: 200px;
+}
+.footer h1{
+  padding: 800px;
+}
